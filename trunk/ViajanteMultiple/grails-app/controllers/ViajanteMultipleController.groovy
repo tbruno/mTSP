@@ -6,9 +6,10 @@ import grails.converters.XML
 class ViajanteMultipleController {
 
     def index() { 
-    	def output = [:]
-		
-		def allPaths = Path.findAllByOutputId(4)
+    	def id = params.id == null ? 4 : params.id 
+		def output = [:]
+					
+		def allPaths = Path.findAllByOutputId(id)
 		def clusters = allPaths.cluster.toSet()
 		
 		clusters.each{ cluster ->

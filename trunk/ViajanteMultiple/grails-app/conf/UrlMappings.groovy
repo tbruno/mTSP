@@ -6,8 +6,12 @@ class UrlMappings {
 				// apply constraints here
 			}
 		}
-
-		"/"(view:"/index")
+		
+		"/" {
+			controller = "ViajanteMultiple"
+			action = "index"
+		}
 		"500"(view:'/error')
+		
 	}
 }
