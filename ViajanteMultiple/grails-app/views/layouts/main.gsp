@@ -26,7 +26,7 @@
   <div id="menucontainer">
     <div id="menunav">
       <ul>
-        <li><g:link action="index" id="4"><span>7 Clusters</span></g:link></li>
+        <li><g:link action="index" id="4"><span>8 Clusters</span></g:link></li>
         <li><g:link action="index" id="3"><span>6 Clusters</span></g:link></li>
         <li><g:link action="index" id="2"><span>5 Clusters</span></g:link></li>
         <li><g:link action="index" id="1"><span>4 Clusters</span></g:link></li>

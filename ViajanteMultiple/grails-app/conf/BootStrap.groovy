@@ -10,7 +10,7 @@ class BootStrap {
 		loadPaths("4_clusters.csv", 1);
 		loadPaths("5_clusters.csv", 2);
 		loadPaths("6_clusters.csv", 3);
-		loadPaths("7_clusters.csv", 4);
+		loadPaths("8_clusters.csv", 4);
     }
 	
 	private def loadPaths(file, id) {
