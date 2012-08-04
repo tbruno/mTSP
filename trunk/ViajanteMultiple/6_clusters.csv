@@ -1,196 +1,195 @@
-0;Argentina - Buenos Aires;-36.3;-60.0;Chile  Santiago ;-33.24;-70.4;1008.3349981706217
-0;Chile  Santiago ;-33.24;-70.4;Brazil  Brasilia ;-15.47;-47.55;3029.710584010401
+0;Argentina - Buenos Aires;-36.3;-60.0;Brazil  Brasilia ;-15.47;-47.55;2623.887683662265
 0;Brazil  Brasilia ;-15.47;-47.55;Paraguay  Asuncion ;-25.1;-57.3;1475.3943403653
 0;Paraguay  Asuncion ;-25.1;-57.3;Uruguay  Montevideo ;-34.5;-56.11;1051.4418575378536
-0;Uruguay  Montevideo ;-34.5;-56.11;Falkland Islands (Malvinas)  Stanley ;-51.4;-59.51;1898.8362818914911
+0;Uruguay  Montevideo ;-34.5;-56.11;Chile  Santiago ;-33.24;-70.4;1325.5649252276733
+0;Chile  Santiago ;-33.24;-70.4;Falkland Islands (Malvinas)  Stanley ;-51.4;-59.51;2203.2016015238437
 0;Falkland Islands (Malvinas)  Stanley ;-51.4;-59.51;Heard Island and McDonald Islands  ;-53.0;74.0;7622.294382196589
-0;Heard Island and McDonald Islands  ;-53.0;74.0;Madagascar  Antananarivo ;-18.55;47.31;4469.504522186297
-0;Madagascar  Antananarivo ;-18.55;47.31;Mayotte  Mamoudzou ;-12.48;45.14;713.7972370200972
-0;Mayotte  Mamoudzou ;-12.48;45.14;Somalia  Mogadishu ;2.02;45.25;1612.2946206657582
-0;Somalia  Mogadishu ;2.02;45.25;Zimbabwe  Harare ;-17.43;31.02;2666.5003231880683
-0;Zimbabwe  Harare ;-17.43;31.02;Mozambique  Maputo ;-25.58;32.32;916.0952811649928
-0;Mozambique  Maputo ;-25.58;32.32;Swaziland  Mbabane (administrative) ;-26.18;31.06;142.6132816500652
-0;Swaziland  Mbabane (administrative) ;-26.18;31.06;Lesotho  Maseru ;-29.18;27.3;498.26518702132716
-0;Lesotho  Maseru ;-29.18;27.3;South Africa  Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial) ;-25.44;28.12;423.66172495883643
-0;South Africa  Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial) ;-25.44;28.12;Zambia  Lusaka ;-15.28;28.16;1129.693768670582
-0;Zambia  Lusaka ;-15.28;28.16;Botswana  Gaborone ;-24.45;25.57;1054.8643314851913
-0;Botswana  Gaborone ;-24.45;25.57;Comros  Moroni ;-11.4;43.16;2355.0028948274194
-0;Comros  Moroni ;-11.4;43.16;Malawi  Lilongwe ;-14.0;33.48;1088.8952489360702
-0;Malawi  Lilongwe ;-14.0;33.48;United Republic of Tanzania  Dodoma ;-6.08;35.45;906.6061469756303
-0;United Republic of Tanzania  Dodoma ;-6.08;35.45;Uganda  Kampala ;0.2;32.3;780.9023913234878
-0;Uganda  Kampala ;0.2;32.3;Democratic Republic of the Congo  Kinshasa ;-4.2;15.15;1967.070387992795
-0;Democratic Republic of the Congo  Kinshasa ;-4.2;15.15;Congo  Brazzaville ;-4.09;15.12;12.675269254437334
-0;Congo  Brazzaville ;-4.09;15.12;Central African Republic  Bangui ;4.23;18.35;992.2506034789463
-0;Central African Republic  Bangui ;4.23;18.35;Cameroon  Yaounde ;3.5;11.35;780.7798372612784
-0;Cameroon  Yaounde ;3.5;11.35;Equatorial Guinea  Malabo ;3.45;8.5;316.35636455345775
-0;Equatorial Guinea  Malabo ;3.45;8.5;Gabon  Libreville ;0.25;9.26;365.69113510225026
+0;Heard Island and McDonald Islands  ;-53.0;74.0;Mauritania  Nouakchott ;-20.1;57.3;3928.902013202724
+0;Mauritania  Nouakchott ;-20.1;57.3;Somalia  Mogadishu ;2.02;45.25;2788.6182144402555
+0;Somalia  Mogadishu ;2.02;45.25;United Republic of Tanzania  Dodoma ;-6.08;35.45;1412.4521361114805
+0;United Republic of Tanzania  Dodoma ;-6.08;35.45;Burundi  Bujumbura ;-3.16;29.18;766.9290185664299
+0;Burundi  Bujumbura ;-3.16;29.18;Kenya  Nairobi ;-1.17;36.48;840.7032912547375
+0;Kenya  Nairobi ;-1.17;36.48;Uganda  Kampala ;0.2;32.3;489.0725692204083
+0;Uganda  Kampala ;0.2;32.3;Rawanda  Kigali ;-1.59;30.04;320.5372547944823
+0;Rawanda  Kigali ;-1.59;30.04;Malawi  Lilongwe ;-14.0;33.48;1430.7465006876264
+0;Malawi  Lilongwe ;-14.0;33.48;Zimbabwe  Harare ;-17.43;31.02;463.4139898099299
+0;Zimbabwe  Harare ;-17.43;31.02;Angola  Luanda ;-8.5;13.15;2173.6625643197103
+0;Angola  Luanda ;-8.5;13.15;Democratic Republic of the Congo  Kinshasa ;-4.2;15.15;526.7046920437105
+0;Democratic Republic of the Congo  Kinshasa ;-4.2;15.15;Gabon  Libreville ;0.25;9.26;820.3641551400902
 0;Gabon  Libreville ;0.25;9.26;Sao Tome and Principe  Sao Tome ;0.1;6.39;319.54805849653445
-0;Sao Tome and Principe  Sao Tome ;0.1;6.39;Angola  Luanda ;-8.5;13.15;1214.5924700699009
-0;Angola  Luanda ;-8.5;13.15;Burundi  Bujumbura ;-3.16;29.18;1869.234731992595
-0;Burundi  Bujumbura ;-3.16;29.18;Rawanda  Kigali ;-1.59;30.04;199.0008743840415
-0;Rawanda  Kigali ;-1.59;30.04;Kenya  Nairobi ;-1.17;36.48;717.3730049154441
-0;Kenya  Nairobi ;-1.17;36.48;Mauritania  Nouakchott ;-20.1;57.3;3090.7131062501558
-0;Mauritania  Nouakchott ;-20.1;57.3;Namibia  Windhoek ;-22.35;17.04;4168.208552992125
-0;Namibia  Windhoek ;-22.35;17.04;Argentina - Buenos Aires;-36.3;-60.0;7438.915051284151
-1;Argentina - Buenos Aires;-36.3;-60.0;Canada  Ottawa ;45.27;-75.42;9201.03482758329
+0;Sao Tome and Principe  Sao Tome ;0.1;6.39;Cameroon  Yaounde ;3.5;11.35;668.3416435843287
+0;Cameroon  Yaounde ;3.5;11.35;Equatorial Guinea  Malabo ;3.45;8.5;316.35636455345775
+0;Equatorial Guinea  Malabo ;3.45;8.5;Central African Republic  Bangui ;4.23;18.35;1096.1801783502808
+0;Central African Republic  Bangui ;4.23;18.35;Congo  Brazzaville ;-4.09;15.12;992.2506034789463
+0;Congo  Brazzaville ;-4.09;15.12;Namibia  Windhoek ;-22.35;17.04;2040.8259337884376
+0;Namibia  Windhoek ;-22.35;17.04;Botswana  Gaborone ;-24.45;25.57;901.0196883001328
+0;Botswana  Gaborone ;-24.45;25.57;Mozambique  Maputo ;-25.58;32.32;691.5487925557601
+0;Mozambique  Maputo ;-25.58;32.32;Lesotho  Maseru ;-29.18;27.3;636.9528423048498
+0;Lesotho  Maseru ;-29.18;27.3;Comros  Moroni ;-11.4;43.16;2571.178593034371
+0;Comros  Moroni ;-11.4;43.16;Mayotte  Mamoudzou ;-12.48;45.14;246.6017300446893
+0;Mayotte  Mamoudzou ;-12.48;45.14;Madagascar  Antananarivo ;-18.55;47.31;713.7972370200972
+0;Madagascar  Antananarivo ;-18.55;47.31;South Africa  Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial) ;-25.44;28.12;2118.691596243181
+0;South Africa  Pretoria (administrative) / Cape Town (legislative) / Bloemfontein (judicial) ;-25.44;28.12;Swaziland  Mbabane (administrative) ;-26.18;31.06;305.56378448761
+0;Swaziland  Mbabane (administrative) ;-26.18;31.06;Zambia  Lusaka ;-15.28;28.16;1248.7650962991024
+0;Zambia  Lusaka ;-15.28;28.16;Argentina - Buenos Aires;-36.3;-60.0;8847.709122122129
+1;Argentina - Buenos Aires;-36.3;-60.0;Israel  Jerusalem ;31.71;-35.1;7994.289555411766
+1;Israel  Jerusalem ;31.71;-35.1;Saint Pierre and Miquelon  Saint-Pierre ;46.46;-56.12;2431.4168311259623
+1;Saint Pierre and Miquelon  Saint-Pierre ;46.46;-56.12;Canada  Ottawa ;45.27;-75.42;1496.4334056250862
 1;Canada  Ottawa ;45.27;-75.42;United States of America  Washington DC ;39.91;-77.02;610.1616804114766
-1;United States of America  Washington DC ;39.91;-77.02;Saint Pierre and Miquelon  Saint-Pierre ;46.46;-56.12;1837.1595098458831
-1;Saint Pierre and Miquelon  Saint-Pierre ;46.46;-56.12;Greenland  Nuuk ;64.1;-51.35;1983.1758468606233
-1;Greenland  Nuuk ;64.1;-51.35;Faroe Islands  Torshavn ;62.05;-6.56;2219.444774210204
-1;Faroe Islands  Torshavn ;62.05;-6.56;Iceland  Reykjavik ;64.1;-21.57;787.2360076321748
-1;Iceland  Reykjavik ;64.1;-21.57;Sweden  Stockholm ;59.2;18.03;2122.3753474254563
-1;Sweden  Stockholm ;59.2;18.03;Belgium  Brussels ;50.51;4.21;1304.9715396906984
-1;Belgium  Brussels ;50.51;4.21;Netherlands  Amsterdam / The Hague (seat of Government) ;52.23;4.54;192.61244518988448
-1;Netherlands  Amsterdam / The Hague (seat of Government) ;52.23;4.54;United Kingdom of Great Britain and Northern Ireland  London ;51.36;-0.05;330.0696261901109
-1;United Kingdom of Great Britain and Northern Ireland  London ;51.36;-0.05;Guernsey  St. Peter Port ;49.26;-2.33;284.1050347756766
-1;Guernsey  St. Peter Port ;49.26;-2.33;Croatia  Zagreb ;45.5;15.58;1407.8676109841674
-1;Croatia  Zagreb ;45.5;15.58;Slovenia  Ljubljana ;46.04;14.33;114.0338482870633
-1;Slovenia  Ljubljana ;46.04;14.33;Liechtenstein  Vaduz ;47.08;9.31;400.75419499667584
-1;Liechtenstein  Vaduz ;47.08;9.31;San Marino  San Marino ;43.55;12.3;456.76598101610773
-1;San Marino  San Marino ;43.55;12.3;Andorra  Andorra la Vella ;42.31;1.32;903.778373726242
+1;United States of America  Washington DC ;39.91;-77.02;Greenland  Nuuk ;64.1;-51.35;3164.8095896681707
+1;Greenland  Nuuk ;64.1;-51.35;Iceland  Reykjavik ;64.1;-21.57;1433.1437363690775
+1;Iceland  Reykjavik ;64.1;-21.57;Faroe Islands  Torshavn ;62.05;-6.56;787.2360076321748
+1;Faroe Islands  Torshavn ;62.05;-6.56;Poland  Warsaw ;52.13;21.0;1973.5171627487869
+1;Poland  Warsaw ;52.13;21.0;Bosnia and Herzegovina  Sarajevo ;43.52;18.26;978.7606545424871
+1;Bosnia and Herzegovina  Sarajevo ;43.52;18.26;Hungary  Budapest ;47.29;19.05;423.69039638186564
+1;Hungary  Budapest ;47.29;19.05;Yugoslavia  Belgrade ;44.5;20.37;326.59027255445653
+1;Yugoslavia  Belgrade ;44.5;20.37;Romania  Bucuresti ;44.27;26.1;455.9425676715482
+1;Romania  Bucuresti ;44.27;26.1;Moldova  Republic of Chisinau;47.02;28.5;358.1480968440508
+1;Moldova  Republic of Chisinau;47.02;28.5;Ukraine  Kiev (Russia) ;50.3;30.28;387.3939942563838
+1;Ukraine  Kiev (Russia) ;50.3;30.28;Andorra  Andorra la Vella ;42.31;1.32;2376.4961092733565
 1;Andorra  Andorra la Vella ;42.31;1.32;Spain  Madrid ;40.25;-3.45;459.59571324850884
 1;Spain  Madrid ;40.25;-3.45;Portugal  Lisbon ;38.42;-9.1;526.6534558944205
-1;Portugal  Lisbon ;38.42;-9.1;Italy  Rome ;41.54;12.29;1850.161933804616
-1;Italy  Rome ;41.54;12.29;Czech Republic  Prague ;50.05;14.22;957.8895148231791
-1;Czech Republic  Prague ;50.05;14.22;Germany  Berlin ;52.3;13.25;259.1469994781714
-1;Germany  Berlin ;52.3;13.25;Slovakia  Bratislava ;48.1;17.07;540.1975580369104
-1;Slovakia  Bratislava ;48.1;17.07;Hungary  Budapest ;47.29;19.05;173.39643189220425
-1;Hungary  Budapest ;47.29;19.05;Yugoslavia  Belgrade ;44.5;20.37;326.59027255445653
-1;Yugoslavia  Belgrade ;44.5;20.37;Switzerland  Bern ;46.57;7.28;1043.849844373625
-1;Switzerland  Bern ;46.57;7.28;France  Paris ;48.5;2.2;437.4503559402022
-1;France  Paris ;48.5;2.2;Luxembourg  Luxembourg ;49.37;6.09;300.10712536043917
-1;Luxembourg  Luxembourg ;49.37;6.09;Austria  Vienna ;48.12;16.22;755.0118064050412
-1;Austria  Vienna ;48.12;16.22;Bosnia and Herzegovina  Sarajevo ;43.52;18.26;535.2897906869221
-1;Bosnia and Herzegovina  Sarajevo ;43.52;18.26;Poland  Warsaw ;52.13;21.0;978.7606545424871
-1;Poland  Warsaw ;52.13;21.0;Belarus  Minsk ;53.52;27.3;450.4209970701295
-1;Belarus  Minsk ;53.52;27.3;Lithuania  Vilnius ;54.38;25.19;167.9349902492236
+1;Portugal  Lisbon ;38.42;-9.1;Guernsey  St. Peter Port ;49.26;-2.33;1320.6209618146868
+1;Guernsey  St. Peter Port ;49.26;-2.33;Ireland  Dublin ;53.21;-6.15;513.2714246680788
+1;Ireland  Dublin ;53.21;-6.15;Norway  Oslo ;59.55;10.45;1236.119205048561
+1;Norway  Oslo ;59.55;10.45;Sweden  Stockholm ;59.2;18.03;430.86802803951053
+1;Sweden  Stockholm ;59.2;18.03;Russian Federation  Moskva ;55.45;37.35;1227.1372486348932
+1;Russian Federation  Moskva ;55.45;37.35;Lithuania  Vilnius ;54.38;25.19;785.1633934538987
 1;Lithuania  Vilnius ;54.38;25.19;Latvia  Riga ;56.53;24.08;249.0828173876459
 1;Latvia  Riga ;56.53;24.08;Estonia  Tallinn ;59.22;24.48;300.0321028363044
 1;Estonia  Tallinn ;59.22;24.48;Finland  Helsinki ;60.15;25.03;107.9142149665396
-1;Finland  Helsinki ;60.15;25.03;Ukraine  Kiev (Russia) ;50.3;30.28;1143.819757389698
-1;Ukraine  Kiev (Russia) ;50.3;30.28;Romania  Bucuresti ;44.27;26.1;740.6055344704105
-1;Romania  Bucuresti ;44.27;26.1;Russian Federation  Moskva ;55.45;37.35;1477.6847943064731
-1;Russian Federation  Moskva ;55.45;37.35;Moldova  Republic of Chisinau;28.5;47.02;3094.6210900078345
-1;Moldova  Republic of Chisinau;28.5;47.02;Denmark  Copenhagen ;55.41;12.34;4066.6842516147585
-1;Denmark  Copenhagen ;55.41;12.34;Norway  Oslo ;59.55;10.45;473.9354583812711
-1;Norway  Oslo ;59.55;10.45;Ireland  Dublin ;53.21;-6.15;1236.119205048561
-1;Ireland  Dublin ;53.21;-6.15;Israel  Jerusalem ;31.71;-35.1;3326.3930689010595
-1;Israel  Jerusalem ;31.71;-35.1;Argentina - Buenos Aires;-36.3;-60.0;7994.289555411766
-2;Argentina - Buenos Aires;-36.3;-60.0;Macao  China Macau;113.3;22.12;14007.14392110744
-2;Macao  China Macau;113.3;22.12;China  Beijing ;39.55;116.2;5855.416212026736
+1;Finland  Helsinki ;60.15;25.03;Belarus  Minsk ;53.52;27.3;749.8912654248742
+1;Belarus  Minsk ;53.52;27.3;Austria  Vienna ;48.12;16.22;981.1593453491116
+1;Austria  Vienna ;48.12;16.22;Slovakia  Bratislava ;48.1;17.07;63.144186138531445
+1;Slovakia  Bratislava ;48.1;17.07;Belgium  Brussels ;50.51;4.21;968.6668972285499
+1;Belgium  Brussels ;50.51;4.21;Netherlands  Amsterdam / The Hague (seat of Government) ;52.23;4.54;192.61244518988448
+1;Netherlands  Amsterdam / The Hague (seat of Government) ;52.23;4.54;United Kingdom of Great Britain and Northern Ireland  London ;51.36;-0.05;330.0696261901109
+1;United Kingdom of Great Britain and Northern Ireland  London ;51.36;-0.05;Switzerland  Bern ;46.57;7.28;754.2666012306639
+1;Switzerland  Bern ;46.57;7.28;Italy  Rome ;41.54;12.29;687.4820221984194
+1;Italy  Rome ;41.54;12.29;San Marino  San Marino ;43.55;12.3;223.49255046464435
+1;San Marino  San Marino ;43.55;12.3;Luxembourg  Luxembourg ;49.37;6.09;802.5294398646072
+1;Luxembourg  Luxembourg ;49.37;6.09;Denmark  Copenhagen ;55.41;12.34;793.5820053325326
+1;Denmark  Copenhagen ;55.41;12.34;Germany  Berlin ;52.3;13.25;350.9035193161287
+1;Germany  Berlin ;52.3;13.25;Croatia  Zagreb ;45.5;15.58;774.9223582011255
+1;Croatia  Zagreb ;45.5;15.58;Slovenia  Ljubljana ;46.04;14.33;114.0338482870633
+1;Slovenia  Ljubljana ;46.04;14.33;Czech Republic  Prague ;50.05;14.22;445.9450318767155
+1;Czech Republic  Prague ;50.05;14.22;Liechtenstein  Vaduz ;47.08;9.31;489.28075105183365
+1;Liechtenstein  Vaduz ;47.08;9.31;France  Paris ;48.5;2.2;553.8672366146726
+1;France  Paris ;48.5;2.2;Argentina - Buenos Aires;-36.3;-60.0;11253.005640942578
+2;Argentina - Buenos Aires;-36.3;-60.0;Sudan  Khartoum ;15.31;32.35;11213.149993792655
+2;Sudan  Khartoum ;15.31;32.35;Ethiopia  Addis Ababa ;9.02;38.42;961.202116196145
+2;Ethiopia  Addis Ababa ;9.02;38.42;Eritrea  Asmara ;15.19;38.55;686.1850952344623
+2;Eritrea  Asmara ;15.19;38.55;Djibouti  Djibouti ;11.08;42.2;604.1195858088867
+2;Djibouti  Djibouti ;11.08;42.2;Maldives  Male ;4.0;73.28;3512.198969745851
+2;Maldives  Male ;4.0;73.28;Oman  Masqat ;23.37;58.36;2684.505710449437
+2;Oman  Masqat ;23.37;58.36;India  New Delhi ;28.37;77.13;1955.9220479944129
+2;India  New Delhi ;28.37;77.13;Nepal  Kathmandu ;27.45;85.2;799.3424789338492
+2;Nepal  Kathmandu ;27.45;85.2;Bhutan  Thimphu ;27.31;89.45;419.88621552883114
+2;Bhutan  Thimphu ;27.31;89.45;Bangladesh  Dhaka ;23.43;90.26;439.01876098221777
+2;Bangladesh  Dhaka ;23.43;90.26;Macao  China Macau;22.12;113.3;2364.064307080659
+2;Macao  China Macau;22.12;113.3;Philippines  Manila ;14.4;121.0;1181.7116527591843
+2;Philippines  Manila ;14.4;121.0;Palau  Koror ;7.2;134.2;1648.0461508724425
+2;Palau  Koror ;7.2;134.2;Brunei Darussalam  Bandar Seri Begawan ;4.52;115.0;2144.1864293964063
+2;Brunei Darussalam  Bandar Seri Begawan ;4.52;115.0;Malaysia  Kuala Lumpur ;3.09;101.4;1517.1444068186486
+2;Malaysia  Kuala Lumpur ;3.09;101.4;Thailand  Bangkok ;13.45;100.3;1158.2470965764626
+2;Thailand  Bangkok ;13.45;100.3;Lao People s Democratic Republic  Vientiane ;17.58;102.3;506.7206555319747
+2;Lao People s Democratic Republic  Vientiane ;17.58;102.3;Viet Nam  Hanoi ;21.05;105.5;511.4301971402342
+2;Viet Nam  Hanoi ;21.05;105.5;Cambodia  Phnom Penh ;11.33;104.5;1086.0090496824698
+2;Cambodia  Phnom Penh ;11.33;104.5;Myanmar  Yangon ;16.45;96.2;1061.1277694538733
+2;Myanmar  Yangon ;16.45;96.2;China  Beijing ;39.55;116.2;3216.551217082482
 2;China  Beijing ;39.55;116.2;North Korea  Pyongyang ;39.09;125.3;784.1000564636851
 2;North Korea  Pyongyang ;39.09;125.3;Republic of Korea  Seoul ;37.31;126.5;223.97140004219293
 2;Republic of Korea  Seoul ;37.31;126.5;Northern Mariana Islands  Saipan ;15.12;145.4;3091.642802824203
-2;Northern Mariana Islands  Saipan ;15.12;145.4;Palau  Koror ;7.2;134.2;1505.1217911827828
-2;Palau  Koror ;7.2;134.2;Bangladesh  Dhaka ;23.43;90.26;5019.598578047324
-2;Bangladesh  Dhaka ;23.43;90.26;Myanmar  Yangon ;16.45;96.2;993.534984829522
-2;Myanmar  Yangon ;16.45;96.2;Cambodia  Phnom Penh ;11.33;104.5;1061.1277694538733
-2;Cambodia  Phnom Penh ;11.33;104.5;Malaysia  Kuala Lumpur ;3.09;101.4;977.8305941662455
-2;Malaysia  Kuala Lumpur ;3.09;101.4;Thailand  Bangkok ;13.45;100.3;1158.2470965764626
-2;Thailand  Bangkok ;13.45;100.3;Nepal  Kathmandu ;27.45;85.2;2208.778069107787
-2;Nepal  Kathmandu ;27.45;85.2;Viet Nam  Hanoi ;21.05;105.5;2174.173548648329
-2;Viet Nam  Hanoi ;21.05;105.5;Philippines  Manila ;14.4;121.0;1798.9346715568204
-2;Philippines  Manila ;14.4;121.0;Brunei Darussalam  Bandar Seri Begawan ;4.52;115.0;1280.114784365905
-2;Brunei Darussalam  Bandar Seri Begawan ;4.52;115.0;Lao People s Democratic Republic  Vientiane ;17.58;102.3;2004.9726440528966
-2;Lao People s Democratic Republic  Vientiane ;17.58;102.3;Bhutan  Thimphu ;27.31;89.45;1704.9592143844618
-2;Bhutan  Thimphu ;27.31;89.45;India  New Delhi ;28.37;77.13;1216.4824305110842
-2;India  New Delhi ;28.37;77.13;Maldives  Male ;4.0;73.28;2740.113030876833
-2;Maldives  Male ;4.0;73.28;Oman  Masqat ;23.37;58.36;2684.505710449437
-2;Oman  Masqat ;23.37;58.36;Djibouti  Djibouti ;11.08;42.2;2190.095311892193
-2;Djibouti  Djibouti ;11.08;42.2;Eritrea  Asmara ;15.19;38.55;604.1195858088867
-2;Eritrea  Asmara ;15.19;38.55;Sudan  Khartoum ;15.31;32.35;665.2118288104565
-2;Sudan  Khartoum ;15.31;32.35;Ethiopia  Addis Ababa ;9.02;38.42;961.202116196145
-2;Ethiopia  Addis Ababa ;9.02;38.42;Argentina - Buenos Aires;-36.3;-60.0;11350.81517052402
-3;Argentina - Buenos Aires;-36.3;-60.0;Algeria  Algiers ;36.42;3.08;10375.89811698585
-3;Algeria  Algiers ;36.42;3.08;Tunisia  Tunis ;36.5;10.11;628.5928064319992
-3;Tunisia  Tunis ;36.5;10.11;Libyan Arab Jamahiriya  Tripoli ;32.49;13.07;521.8246038962764
-3;Libyan Arab Jamahiriya  Tripoli ;32.49;13.07;Malta  Valletta ;35.54;14.31;357.85637578908035
-3;Malta  Valletta ;35.54;14.31;Albania  Tirane ;41.18;19.49;772.466935293461
-3;Albania  Tirane ;41.18;19.49;Macedonia (Former Yugoslav Republic)  Skopje ;42.01;21.26;173.71679897710774
-3;Macedonia (Former Yugoslav Republic)  Skopje ;42.01;21.26;Bulgaria  Sofia ;42.45;23.2;167.0416051854316
-3;Bulgaria  Sofia ;42.45;23.2;Greece  Athens ;37.58;23.46;541.9448586286652
-3;Greece  Athens ;37.58;23.46;Syrian Arab Republic  Damascus ;33.3;36.18;1245.3297295665013
-3;Syrian Arab Republic  Damascus ;33.3;36.18;Jordan  Amman ;31.57;35.52;202.0819942130824
+2;Northern Mariana Islands  Saipan ;15.12;145.4;Argentina - Buenos Aires;-36.3;-60.0;16568.17218811368
+3;Argentina - Buenos Aires;-36.3;-60.0;Iraq  Baghdad ;33.2;44.3;13274.793288041088
+3;Iraq  Baghdad ;33.2;44.3;Azerbaijan  Baku ;40.29;49.56;916.6778092633383
+3;Azerbaijan  Baku ;40.29;49.56;Georgia  T bilisi ;41.43;44.5;443.9146101050612
+3;Georgia  T bilisi ;41.43;44.5;Armenia  Yerevan ;40.1;44.31;148.7451257015213
+3;Armenia  Yerevan ;40.1;44.31;Turkey  Ankara ;39.57;32.54;1005.9315940991294
+3;Turkey  Ankara ;39.57;32.54;Jordan  Amman ;31.57;35.52;929.2871918676074
 3;Jordan  Amman ;31.57;35.52;Lebanon  Beirut ;33.53;35.31;218.8183483427764
-3;Lebanon  Beirut ;33.53;35.31;Egypt  Cairo ;30.01;31.14;555.3785147268093
-3;Egypt  Cairo ;30.01;31.14;Iraq  Baghdad ;33.2;44.3;1294.6621334746253
-3;Iraq  Baghdad ;33.2;44.3;Kuwait  Kuwait ;29.3;48.0;558.2403344279675
+3;Lebanon  Beirut ;33.53;35.31;Kuwait  Kuwait ;29.3;48.0;1291.592273646003
 3;Kuwait  Kuwait ;29.3;48.0;Bahrain  Manama ;26.1;50.3;421.712862572969
 3;Bahrain  Manama ;26.1;50.3;Qatar  Doha ;25.15;51.35;149.12470303481797
 3;Qatar  Doha ;25.15;51.35;United Arab Emirates  Abu Dhabi ;24.28;54.22;305.5879463478239
-3;United Arab Emirates  Abu Dhabi ;24.28;54.22;Saudi Arabia  Riyadh ;24.41;46.42;790.1881996783966
-3;Saudi Arabia  Riyadh ;24.41;46.42;Armenia  Yerevan ;40.1;44.31;1755.655570920083
-3;Armenia  Yerevan ;40.1;44.31;Azerbaijan  Baku ;40.29;49.56;446.32981624215506
-3;Azerbaijan  Baku ;40.29;49.56;Georgia  T bilisi ;41.43;44.5;443.9146101050612
-3;Georgia  T bilisi ;41.43;44.5;Cyprus  Nicosia ;35.1;33.25;1206.6330435738942
-3;Cyprus  Nicosia ;35.1;33.25;Afghanistan  Kabul ;34.28;69.11;3261.9293132120724
-3;Afghanistan  Kabul ;34.28;69.11;Uzbekistan  Tashkent ;41.2;69.1;769.4323732621702
-3;Uzbekistan  Tashkent ;41.2;69.1;Kyrgyzstan  Bishkek ;42.54;74.46;468.04194388527674
-3;Kyrgyzstan  Bishkek ;42.54;74.46;Pakistan  Islamabad ;33.4;73.1;1023.1987621137007
-3;Pakistan  Islamabad ;33.4;73.1;Tajikistan  Dushanbe ;38.33;68.48;688.1005059953318
-3;Tajikistan  Dushanbe ;38.33;68.48;Kazakhstan  Astana ;51.1;71.3;1436.982910916651
-3;Kazakhstan  Astana ;51.1;71.3;Turkmenistan  Ashgabat ;38.0;57.5;1814.9597246122612
-3;Turkmenistan  Ashgabat ;38.0;57.5;Iran (Islamic Republic of)  Tehran ;35.44;51.3;621.3903884481969
-3;Iran (Islamic Republic of)  Tehran ;35.44;51.3;Turkey  Ankara ;39.57;32.54;1713.6801307425594
-3;Turkey  Ankara ;39.57;32.54;Argentina - Buenos Aires;-36.3;-60.0;12661.111150043358
-4;Argentina - Buenos Aires;-36.3;-60.0;Bolivia  La Paz (administrative) / Sucre (legislative) ;-16.2;-68.1;2373.9078503039627
-4;Bolivia  La Paz (administrative) / Sucre (legislative) ;-16.2;-68.1;Peru  Lima ;-12.0;-77.0;1067.0747726518944
-4;Peru  Lima ;-12.0;-77.0;Ecuador  Quito ;-0.15;-78.35;1325.993115043031
-4;Ecuador  Quito ;-0.15;-78.35;Colombia  Bogota ;4.34;-74.0;694.8022043810017
-4;Colombia  Bogota ;4.34;-74.0;Aruba  Oranjestad ;12.32;-70.02;989.2842760110087
+3;United Arab Emirates  Abu Dhabi ;24.28;54.22;Iran (Islamic Republic of)  Tehran ;35.44;51.3;1272.2229264221685
+3;Iran (Islamic Republic of)  Tehran ;35.44;51.3;Turkmenistan  Ashgabat ;38.0;57.5;621.3903884481969
+3;Turkmenistan  Ashgabat ;38.0;57.5;Tajikistan  Dushanbe ;38.33;68.48;960.0191406372227
+3;Tajikistan  Dushanbe ;38.33;68.48;Pakistan  Islamabad ;33.4;73.1;688.1005059953318
+3;Pakistan  Islamabad ;33.4;73.1;Uzbekistan  Tashkent ;41.2;69.1;936.372254082962
+3;Uzbekistan  Tashkent ;41.2;69.1;Kazakhstan  Astana ;51.1;71.3;1113.607419527772
+3;Kazakhstan  Astana ;51.1;71.3;Kyrgyzstan  Bishkek ;42.54;74.46;981.4356175102868
+3;Kyrgyzstan  Bishkek ;42.54;74.46;Afghanistan  Kabul ;34.28;69.11;1029.3842277650654
+3;Afghanistan  Kabul ;34.28;69.11;Saudi Arabia  Riyadh ;24.41;46.42;2449.8911565869203
+3;Saudi Arabia  Riyadh ;24.41;46.42;Cyprus  Nicosia ;35.1;33.25;1737.2218917666173
+3;Cyprus  Nicosia ;35.1;33.25;Syrian Arab Republic  Damascus ;33.3;36.18;335.6203462869966
+3;Syrian Arab Republic  Damascus ;33.3;36.18;Egypt  Cairo ;30.01;31.14;600.995171961072
+3;Egypt  Cairo ;30.01;31.14;Albania  Tirane ;41.18;19.49;1625.357188675786
+3;Albania  Tirane ;41.18;19.49;Macedonia (Former Yugoslav Republic)  Skopje ;42.01;21.26;173.71679897710774
+3;Macedonia (Former Yugoslav Republic)  Skopje ;42.01;21.26;Bulgaria  Sofia ;42.45;23.2;167.0416051854316
+3;Bulgaria  Sofia ;42.45;23.2;Greece  Athens ;37.58;23.46;541.9448586286652
+3;Greece  Athens ;37.58;23.46;Libyan Arab Jamahiriya  Tripoli ;32.49;13.07;1101.2803975793045
+3;Libyan Arab Jamahiriya  Tripoli ;32.49;13.07;Tunisia  Tunis ;36.5;10.11;521.8246038962764
+3;Tunisia  Tunis ;36.5;10.11;Malta  Valletta ;35.54;14.31;392.46593376660695
+3;Malta  Valletta ;35.54;14.31;Algeria  Algiers ;36.42;3.08;1014.5864131598179
+3;Algeria  Algiers ;36.42;3.08;Argentina - Buenos Aires;-36.3;-60.0;10375.89811698585
+4;Argentina - Buenos Aires;-36.3;-60.0;Saint Vincent and the Greenadines  Kingstown ;13.1;-61.1;5493.978758019309
+4;Saint Vincent and the Greenadines  Kingstown ;13.1;-61.1;Saint Lucia  Castries ;14.02;-60.58;116.71880408971299
+4;Saint Lucia  Castries ;14.02;-60.58;Guadeloupe  Basse-Terre ;16.0;-61.44;238.74210249811006
+4;Guadeloupe  Basse-Terre ;16.0;-61.44;Dominica  Roseau ;15.2;-61.24;91.4939930308198
+4;Dominica  Roseau ;15.2;-61.24;Martinique  Fort-de-France ;14.36;-61.02;96.3474932914981
+4;Martinique  Fort-de-France ;14.36;-61.02;United States of Virgin Islands  Charlotte Amalie ;18.21;-64.56;570.9014533651352
+4;United States of Virgin Islands  Charlotte Amalie ;18.21;-64.56;Puerto Rico  San Juan ;18.28;-66.07;159.6448991098603
+4;Puerto Rico  San Juan ;18.28;-66.07;British Virgin Islands  Road Town ;18.27;-64.37;179.4912454067626
+4;British Virgin Islands  Road Town ;18.27;-64.37;Jamaica  Kingston ;18.0;-76.5;1281.8496698868046
+4;Jamaica  Kingston ;18.0;-76.5;Aruba  Oranjestad ;12.32;-70.02;939.1346694809072
 4;Aruba  Oranjestad ;12.32;-70.02;Netherlands Antilles  Willemstad ;12.05;-69.0;114.85118125956502
 4;Netherlands Antilles  Willemstad ;12.05;-69.0;Venezuela  Caracas ;10.3;-66.55;330.5717919364753
-4;Venezuela  Caracas ;10.3;-66.55;Puerto Rico  San Juan ;18.28;-66.07;888.7959873412416
-4;Puerto Rico  San Juan ;18.28;-66.07;Dominica Republic  Santo Domingo ;18.3;-69.59;371.6154213468835
-4;Dominica Republic  Santo Domingo ;18.3;-69.59;Haiti  Port-au-Prince ;18.4;-72.2;275.6701244940268
-4;Haiti  Port-au-Prince ;18.4;-72.2;Jamaica  Kingston ;18.0;-76.5;456.35687750654273
-4;Jamaica  Kingston ;18.0;-76.5;Saint Vincent and the Greenadines  Kingstown ;13.1;-61.1;1736.3550305192343
-4;Saint Vincent and the Greenadines  Kingstown ;13.1;-61.1;Martinique  Fort-de-France ;14.36;-61.02;140.3650797980719
-4;Martinique  Fort-de-France ;14.36;-61.02;Saint Lucia  Castries ;14.02;-60.58;60.6534156263595
-4;Saint Lucia  Castries ;14.02;-60.58;Guyana  Georgetown ;6.5;-58.12;878.3325023990509
-4;Guyana  Georgetown ;6.5;-58.12;Suriname  Paramaribo ;5.5;-55.1;351.97234495567335
-4;Suriname  Paramaribo ;5.5;-55.1;French Guiana  Cayenne ;5.05;-52.18;327.14635453136833
-4;French Guiana  Cayenne ;5.05;-52.18;American Samoa  Pago Pago ;-14.16;-170.4;13183.842484698447
+4;Venezuela  Caracas ;10.3;-66.55;Panama  Panama ;9.0;-79.25;1399.4982549887193
+4;Panama  Panama ;9.0;-79.25;Costa Rica  San Jose ;9.55;-84.02;526.9944437013738
+4;Costa Rica  San Jose ;9.55;-84.02;Nicaragua  Managua ;12.06;-86.2;366.83544884417785
+4;Nicaragua  Managua ;12.06;-86.2;Honduras  Tegucigalpa ;14.05;-87.14;243.56649273690317
+4;Honduras  Tegucigalpa ;14.05;-87.14;El Salvador  San Salvador ;13.4;-89.1;223.70331555202543
+4;El Salvador  San Salvador ;13.4;-89.1;Guatemala  Guatemala ;14.4;-90.22;164.24366006445814
+4;Guatemala  Guatemala ;14.4;-90.22;Belize  Belmopan ;17.18;-88.3;371.1298564382792
+4;Belize  Belmopan ;17.18;-88.3;American Samoa  Pago Pago ;-14.16;-170.4;9656.084670555683
 4;American Samoa  Pago Pago ;-14.16;-170.4;Samoa  Apia ;-13.5;-171.5;139.60569548404516
 4;Samoa  Apia ;-13.5;-171.5;Tonga  Nuku alofa ;-21.1;-174.0;885.6613105455132
 4;Tonga  Nuku alofa ;-21.1;-174.0;French Polynesia  Papeete ;-17.32;-149.3;2624.4786738658436
 4;French Polynesia  Papeete ;-17.32;-149.3;Mexico  Mexico ;19.2;-99.1;6823.438593188862
-4;Mexico  Mexico ;19.2;-99.1;Bahamas  Nassau ;25.05;-77.2;2344.3452371095336
+4;Mexico  Mexico ;19.2;-99.1;Antigua and Barbuda  West Indies ;17.2;-61.48;3972.4057153057524
+4;Antigua and Barbuda  West Indies ;17.2;-61.48;Saint Kitts and Nevis  Basseterre ;17.17;-62.43;100.96933372966306
+4;Saint Kitts and Nevis  Basseterre ;17.17;-62.43;Barbados  Bridgetown ;13.05;-59.3;568.0541105633052
+4;Barbados  Bridgetown ;13.05;-59.3;Dominica Republic  Santo Domingo ;18.3;-69.59;1246.181902388673
+4;Dominica Republic  Santo Domingo ;18.3;-69.59;Haiti  Port-au-Prince ;18.4;-72.2;275.6701244940268
+4;Haiti  Port-au-Prince ;18.4;-72.2;Bahamas  Nassau ;25.05;-77.2;901.6612880151852
 4;Bahamas  Nassau ;25.05;-77.2;Cuba  Havana ;23.08;-82.22;554.6729345559805
 4;Cuba  Havana ;23.08;-82.22;Cayman Islands  George Town ;19.2;-81.24;443.2187031027572
-4;Cayman Islands  George Town ;19.2;-81.24;Nicaragua  Managua ;12.06;-86.2;954.9227929502226
-4;Nicaragua  Managua ;12.06;-86.2;Panama  Panama ;9.0;-79.25;832.3543704051049
-4;Panama  Panama ;9.0;-79.25;Costa Rica  San Jose ;9.55;-84.02;526.9944437013738
-4;Costa Rica  San Jose ;9.55;-84.02;Belize  Belmopan ;17.18;-88.3;966.301387604185
-4;Belize  Belmopan ;17.18;-88.3;Honduras  Tegucigalpa ;14.05;-87.14;369.5212955240766
-4;Honduras  Tegucigalpa ;14.05;-87.14;El Salvador  San Salvador ;13.4;-89.1;223.70331555202543
-4;El Salvador  San Salvador ;13.4;-89.1;Guatemala  Guatemala ;14.4;-90.22;164.24366006445814
-4;Guatemala  Guatemala ;14.4;-90.22;Antigua and Barbuda  West Indies ;17.2;-61.48;3087.760004972573
-4;Antigua and Barbuda  West Indies ;17.2;-61.48;Saint Kitts and Nevis  Basseterre ;17.17;-62.43;100.96933372966306
-4;Saint Kitts and Nevis  Basseterre ;17.17;-62.43;Guadeloupe  Basse-Terre ;16.0;-61.44;167.49097429851196
-4;Guadeloupe  Basse-Terre ;16.0;-61.44;Dominica  Roseau ;15.2;-61.24;91.4939930308198
-4;Dominica  Roseau ;15.2;-61.24;Barbados  Bridgetown ;13.05;-59.3;317.64909921644164
-4;Barbados  Bridgetown ;13.05;-59.3;British Virgin Islands  Road Town ;18.27;-64.37;794.51076019232
-4;British Virgin Islands  Road Town ;18.27;-64.37;United States of Virgin Islands  Charlotte Amalie ;18.21;-64.56;21.14454982509155
-4;United States of Virgin Islands  Charlotte Amalie ;18.21;-64.56;Cape Verde  Praia ;15.02;-23.34;4397.348788770064
+4;Cayman Islands  George Town ;19.2;-81.24;Bolivia  La Paz (administrative) / Sucre (legislative) ;-16.2;-68.1;4190.180880004806
+4;Bolivia  La Paz (administrative) / Sucre (legislative) ;-16.2;-68.1;Peru  Lima ;-12.0;-77.0;1067.0747726518944
+4;Peru  Lima ;-12.0;-77.0;Ecuador  Quito ;-0.15;-78.35;1325.993115043031
+4;Ecuador  Quito ;-0.15;-78.35;Colombia  Bogota ;4.34;-74.0;694.8022043810017
+4;Colombia  Bogota ;4.34;-74.0;Cape Verde  Praia ;15.02;-23.34;5664.116641721644
 4;Cape Verde  Praia ;15.02;-23.34;Senegal  Dakar ;14.34;-17.29;655.0914808041881
 4;Senegal  Dakar ;14.34;-17.29;Gambia  Banjul ;13.28;-16.4;152.07144562391062
-4;Gambia  Banjul ;13.28;-16.4;Guinea-Bissau  Bissau ;11.45;-15.45;228.1400643436064
-4;Guinea-Bissau  Bissau ;11.45;-15.45;Ghana  Accra ;5.35;-0.06;1822.7767806834584
+4;Gambia  Banjul ;13.28;-16.4;Ghana  Accra ;5.35;-0.06;1996.4317877611697
 4;Ghana  Accra ;5.35;-0.06;Benin  Porto Novo (constitutional) / Cotonou (seat of government) ;6.23;2.42;291.26729775036114
 4;Benin  Porto Novo (constitutional) / Cotonou (seat of government) ;6.23;2.42;Togo  Lome ;6.09;1.2;135.76336291695497
-4;Togo  Lome ;6.09;1.2;Cote d Ivoire  Yamoussoukro ;6.49;-5.17;705.4114851968368
-4;Cote d Ivoire  Yamoussoukro ;6.49;-5.17;Liberia  Monrovia ;6.18;-10.47;586.716393748675
-4;Liberia  Monrovia ;6.18;-10.47;Mali  Bamako ;12.34;-7.55;756.1098363823914
+4;Togo  Lome ;6.09;1.2;Mali  Bamako ;12.34;-7.55;1184.9803651068746
 4;Mali  Bamako ;12.34;-7.55;Burkina Faso  Ouagadougou ;12.15;-1.3;679.4378236394041
 4;Burkina Faso  Ouagadougou ;12.15;-1.3;Niger  Niamey ;13.27;2.06;385.1231721089938
 4;Niger  Niamey ;13.27;2.06;Nigeria  Abuja ;9.05;7.32;741.10487429216
 4;Nigeria  Abuja ;9.05;7.32;Chad  N Djamena ;12.1;14.59;863.8482072815856
-4;Chad  N Djamena ;12.1;14.59;Guinea  Conakry ;9.29;-13.49;3082.4188723222096
+4;Chad  N Djamena ;12.1;14.59;Cote d Ivoire  Yamoussoukro ;6.49;-5.17;2255.0248381789556
+4;Cote d Ivoire  Yamoussoukro ;6.49;-5.17;Liberia  Monrovia ;6.18;-10.47;586.716393748675
+4;Liberia  Monrovia ;6.18;-10.47;Guinea  Conakry ;9.29;-13.49;479.8564820118086
 4;Guinea  Conakry ;9.29;-13.49;Sierra Leone  Freetown ;8.3;-13.17;115.55712880051661
-4;Sierra Leone  Freetown ;8.3;-13.17;Argentina - Buenos Aires;-36.3;-60.0;6960.810003159716
-5;Argentina - Buenos Aires;-36.3;-60.0;Norfolk Island  Kingston ;-45.2;168.4;9732.771521101697
-5;Norfolk Island  Kingston ;-45.2;168.4;New Zealand  Wellington ;-41.19;174.4;659.4657204804662
+4;Sierra Leone  Freetown ;8.3;-13.17;Guinea-Bissau  Bissau ;11.45;-15.45;430.1556515175618
+4;Guinea-Bissau  Bissau ;11.45;-15.45;French Guiana  Cayenne ;5.05;-52.18;4100.216144378674
+4;French Guiana  Cayenne ;5.05;-52.18;Guyana  Georgetown ;6.5;-58.12;676.5830574513458
+4;Guyana  Georgetown ;6.5;-58.12;Suriname  Paramaribo ;5.5;-55.1;351.97234495567335
+4;Suriname  Paramaribo ;5.5;-55.1;Argentina - Buenos Aires;-36.3;-60.0;4675.678511039467
+5;Argentina - Buenos Aires;-36.3;-60.0;New Zealand  Wellington ;-41.19;174.4;9772.400529992825
 5;New Zealand  Wellington ;-41.19;174.4;New Caledonia  Noumea ;-22.17;166.3;2246.7784536411928
 5;New Caledonia  Noumea ;-22.17;166.3;Vanuatu  Port-Vila ;-17.45;168.1;557.5466049710515
 5;Vanuatu  Port-Vila ;-17.45;168.1;Fiji  Suva ;-18.06;178.3;1082.1020224693377
@@ -202,4 +201,5 @@
 5;Papua New Guinea  Port Moresby ;-9.24;147.0;East Timor  Dili ;-8.29;125.3;2386.609871072505
 5;East Timor  Dili ;-8.29;125.3;Indonesia  Jakarta ;-6.09;106.4;2098.9766643272565
 5;Indonesia  Jakarta ;-6.09;106.4;Australia  Canberra ;-35.15;149.0;5418.764014430375
-5;Australia  Canberra ;-35.15;149.0;Argentina - Buenos Aires;-36.3;-60.0;11521.657072207265
+5;Australia  Canberra ;-35.15;149.0;Norfolk Island  Kingston ;-45.2;168.4;1983.034362233016
+5;Norfolk Island  Kingston ;-45.2;168.4;Argentina - Buenos Aires;-36.3;-60.0;9732.771521101697
